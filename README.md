@@ -3,11 +3,11 @@
 Olá, meu nome é Alex, nascido e criado em João Pessoa-PB. Sou graduado em Direito pela Unipê. Atualmente, estou migrando para a área de tecnologia, sou estudante de Desenvolvimento Web FullStack na Trybe, contudo, busco me desenvolver e seguir como um Dev Front-End. Estou em busca de uma oportunidade como Desenvolvedor Web, através do qual espero contribuir de forma produtiva e gerar impacto positivo nas pessoas com quem trabalhar, empregando não só as habilidades técnicas próprias de um Dev, mas também soft skills, visando um saudável ambiente de trabalho. Meu principal objetivo seria resolver problemas reais, e partindo sempre da humanização e valorização das pessoas.
 
 
-- 🔭 Procuro trabalhar como Dev Front-End!
+#### - 🔭 Procuro trabalhar como Dev Front-End!
 
-- 🌱 Estou no momento estudando na Trybe, terminando o módulo de Back End!
-.
-- ⚡ Fun fact: Para além do desenvolvimento Web, adoro literatura, cinema, séries, animes, mangás e games!
+#### - 🌱 Estou no momento estudando na Trybe, terminando o módulo de Back End!
+
+#### - ⚡ Fun fact: Para além do desenvolvimento Web, adoro literatura, cinema, séries, animes, mangás e games!
 
 
 <div align="center">
