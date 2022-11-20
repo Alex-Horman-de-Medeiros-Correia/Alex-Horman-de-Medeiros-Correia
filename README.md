@@ -9,6 +9,12 @@ Olá, meu nome é Alex, nascido e criado em João Pessoa-PB. Sou graduado em Dir
 
 #### - ⚡ Fun fact: Para além do desenvolvimento Web, adoro literatura, cinema, séries, animes, mangás e games!
 
+<br>
+
+### Email: alexhorman1990@gmail.com
+
+### celular / WhatsApp: (83) 9 8698 0991
+
 
 <div align="center">
   <a href="https://github.com/Alex-Horman-de-Medeiros-Correia">
