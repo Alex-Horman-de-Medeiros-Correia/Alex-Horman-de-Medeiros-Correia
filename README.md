@@ -5,8 +5,6 @@ Olá, meu nome é Alex, nascido e criado em João Pessoa-PB. Sou graduado em Dir
 
 #### - 🔭 Procuro trabalhar como Dev Front-End!
 
-#### - 🌱 Estou no momento estudando na Trybe, terminando o módulo de Back End!
-
 #### - ⚡ Fun fact: Para além do desenvolvimento Web, adoro literatura, cinema, séries, animes, mangás e games!
 
 <br>
